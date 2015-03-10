@@ -2,7 +2,7 @@
 
 ### experiment #1
 
-Random 40 KHz, 25 mm x2 transducers:
+Off-the-eBay-shelf 40 KHz, 25 mm x2 transducers:
 
 ![alt text](40khz_25mm_transducer.JPG "Transducer")
 
