@@ -16,3 +16,4 @@ Terasic DE0-Nano board with Altera Cyclone IV FPGA. With Altera Cyclone IV FPGA 
 
 ![alt text](20130613_382959.jpg "Oscillogram")
 
+Observing LONG Reverberation after the end of the signal: >600us
