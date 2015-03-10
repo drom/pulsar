@@ -10,9 +10,9 @@ Terasic DE0-Nano board with Altera Cyclone IV FPGA. With Altera Cyclone IV FPGA 
 
 ![alt text](http://www.terasic.com.tw/attachment/archive/593/image/image_60_thumb.jpg "Terasic DE0-Nano board")
 
-3 pulse train: 40KHz
-200mm distance.
-~600us latency:
+<b style='color:red'>Red line:</b> 3 pulse train: 40KHz (red line)
 
-![alt text](20130613_382959.jpg "Oscilogramm")
+<b style='color:yellow'>Yellow line:</b> Second 200mm distance. ~600us latency:
+
+![alt text](20130613_382959.jpg "Oscillogram")
 
